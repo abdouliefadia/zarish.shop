@@ -1,2 +1,2 @@
-Abdoulie Jr. Fadia
-code the future
+# coding the future 
+ tech talent africa code the future day 1
